@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8362bb62d46cb7bb0af0c3c8ee6722b1adf9644c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cdf712223ce899ac6b92c7f3dcf5e78337d62f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,7 +8,7 @@ namespace ToolsQA
         static void Main(string[] args)
         {
             IWebDriver driver = new FirefoxDriver();
-            driver.Url = "https://www.demoqa.com";
+            driver.Url = "https://demoqa.com";
         }
     }
     
