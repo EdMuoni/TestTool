@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICUJ4CuPtq4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jazztime\\Desktop\\TARge24\\Tarkvarasüsteemide_Testimine\\TestTool\\TestTool\\TestTool\\TestTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jazztime\\.nuget\\packages\\selenium.support\\4.38.0\\selenium.support.4.38.0.nupkg.sha512",
+    "C:\\Users\\Jazztime\\.nuget\\packages\\selenium.webdriver\\4.38.0\\selenium.webdriver.4.38.0.nupkg.sha512",
+    "C:\\Users\\Jazztime\\.nuget\\packages\\selenium.webdriver.chromedriver\\141.0.7390.12200\\selenium.webdriver.chromedriver.141.0.7390.12200.nupkg.sha512"
+  ],
+  "logs": []
+}
